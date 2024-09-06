@@ -1,7 +1,8 @@
 # Sinais digitais e sistemas de numeração 
 - Introdução a sinais digitais ([vídeo](https://youtu.be/mHRgEsr67CA))
 - Sistemas de numeração ([vídeo](https://youtu.be/nYVaMCGRv2g))
-- Aritmética ([Soma e subtração](https://youtu.be/Guf0HO1Op2I), [multiplicação e representação: sinal-magnitude, complemento de 1 e complemento de 2](https://youtu.be/3dVZh-UWNeY))
+- Soma e subtração ([Soma e subtração](https://youtu.be/Guf0HO1Op2I))
+- Multiplicação e representações: sinal-magnitude, complemento de 1 e complemento de 2 ([vídeo](https://youtu.be/3dVZh-UWNeY))
 
 # Álgebra Booleana
 - Álgebra Booleana ([vídeo](https://youtu.be/olSdWIkgSto))
