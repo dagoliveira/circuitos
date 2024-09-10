@@ -10,7 +10,7 @@
 - Mapa de Karnaugh ([vídeo](https://youtu.be/GJfmEWyvkzc), [slides](./slides/aula7_mapa_de_karnaugh.pdf))
 
 # Circuitos digitais combinacionais
-- Portas lógicas básicas, universais e síntese de circuitos ([vídeo](https://youtu.be/lO3fG7cj54g), [slides](./slides/aula8_circuitos_combinacionais.pdf), [portas universais](https://www.youtube.com/watch?v=4eI83mQs7xc))
+- Portas lógicas básicas, universais e síntese de circuitos ([vídeo](https://youtu.be/lO3fG7cj54g), [slides](./slides/aula8_circuitos_combinacionais.pdf), [portas universais](https://www.youtube.com/watch?v=4eI83mQs7xc), [portas universais slides](./slides/portas_universais_escritos.pdf))
 - Somadores e subtratores ([vídeo](https://youtu.be/zHtcoDbhsR8), [slides](./slides/aula9_somador_subtrator.pdf))
 - Codificador/Decodificador e Multiplexador ([vídeo](https://youtu.be/gSKuXlB4OHw), [slides](./slides/aula10_decodificador_multiplexador.pdf))
 - Comparador binário e implementando funções booleanas com Multiplexadores ([vídeo](https://youtu.be/waCVn7wjWSo), [slides](./slides/aula13_mais_circuitos_combinacionais_comparador_funcComMUX_dontcare.pdf))
