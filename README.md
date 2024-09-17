@@ -10,6 +10,9 @@ Capacitar o estudante a compreender o sistema de numeração em diversas bases, 
 
 [Acesse o conteúdo da disciplina](./conteudo.md)
 
+## Listas de Exercícios
+
+As listas de exercícios podem ser acessadas [aqui](./listas_exercicios)
 
 ## Bibliografia
 
