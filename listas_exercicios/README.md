@@ -11,13 +11,19 @@ Faça o download do PDF para visualizar a lista
 - Forma normal e fatoração [PDF](./Exercicios_forma_normal_e_fatoracao.pdf)
 - Mapa de Karnaugh [PDF](./Exercicios_mapa_de_Karnaugh.pdf)
 - Circuitos Combinacionais [PDF](./Exercicios_circuitos_combinacionais.pdf)
+- Compilador de exercícios para revisão antes da prova [PDF](./Exercicios_Primeira_Prova.pdf)
 
 ## Prova 2
+- Forma de onda [PDF](./Exercicios_Forma_de_onda.pdf)
 - Decodificador e Multiplexador [PDF](./Exercicios_decodificador_multiplexador.pdf)
 - Somadores e Subtratores (circ. combinacional) [PDF](./Exercicios_somadores_subtratores.pdf)
 - Latches [PDF](./Exercicios_latches.pdf)
 - Flip-flops [PDF](./Exercicios_flip-flops.pdf)
+- Máquina de estados finitos [PDF](./Exercicios_Maquina_de_estados_finitos.pdf)
 
+	
+	
+	
 
 
 
