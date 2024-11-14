@@ -4,11 +4,11 @@ O Trabalho deverá ser implementado por uma máquina de estados finitos. Ou seja
 
 Trabalhos que utilizam circuitos 'prontos', como contadores, e os adaptam para resolver o problema, **serão desconsiderados**.
 
-## Intersecção com Sensores de Tráfico
+## Intersecção com Sensores de Tráfego
 
 Projete uma máquina de estados para controlar os semáforos de uma intersecção.
-Essa intesecção possui dois semáforos, S1 e S2; e cada rua possui sensores de tráfico, Ta e Tb. 
-Cada sensor de tráfico ativa em nível alto caso tenha carros em sua pista (i.e., Ta=1).
+Essa intesecção possui dois semáforos, S1 e S2; e cada rua possui sensores de tráfego, Ta e Tb. 
+Cada sensor de tráfego ativa em nível alto caso tenha carros em sua pista (i.e., Ta=1).
 
 ![Semáforos](./imgs/traffic_intersection_sensors.png)
 
