@@ -17,15 +17,16 @@ Caso o S1 esteja aberto (luz verde), e não tenha carros em Tb (i.e., Tb=0), ent
 O mesmo vale para o S2: Caso o S2 esteja aberto (luz verde), e não tenha carros em Ta (i.e., Ta=0), então S2 permanece verde até que tenha carros em Ta (i.e., Ta=1).
 
 As luzes nos semáforos se alternam da maneira tradicional:
-    1. (S1=verde / S2=vermelho)
-    2. (S1=amarelo / S2=vermelho)
-    3. (S1=vermelho / S2=verde)
-    4. (S1=vermelho / S2=amarelo)
-    5. volta ao primeiro ciclo
+
+1. (S1=verde / S2=vermelho)
+2. (S1=amarelo / S2=vermelho)
+3. (S1=vermelho / S2=verde)
+4. (S1=vermelho / S2=amarelo)
+5. volta ao primeiro ciclo
 
 ### Entradas
 
-A máquina de estados receberá três entradas: Ta, Tb e Clock. As luzes se alternaram de acordo com o Clock, sendo que cada ciclo pode durar apenas uma batida do Clock.
+A máquina de estados receberá três entradas: Ta, Tb e Clock. As luzes se alternaram de acordo com o Clock, sendo que a duração de cada estado pode ser de apenas uma batida do Clock.
 
 ## O que deve ser entrege
 
